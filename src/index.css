@@ -1,0 +1,129 @@
+p{
+  font-size: 11px;
+}
+.card{
+  width: calc(20%); 
+  margin-bottom: 20px; 
+  background-color: hsl(0, 0%, 10%);
+  padding: 20px;
+  margin-right: 20px;
+  box-sizing: border-box;
+  border: 8px solid rgb(211, 211, 211);
+  min-height: 300px;
+
+
+}
+.mainBody{
+  background-color: black;
+  border: 1px solid rgb(211, 211, 211);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgba(240, 223, 223, 0.1);
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  max-width: 400px;
+  display: inline-block;
+}
+.card .card-image{
+  max-width: 100%;
+  height:auto;
+  margin-bottom: 10px;
+  filter:grayscale(100%);
+}
+
+.card .card-title{
+font-family: 'Times New Roman', Times, serif;
+margin: 0;
+color: hsl(0, 0%, 100%); 
+}
+
+.card .card-text{
+  font-family: 'Times New Roman', Times, serif;
+  color: hsl(0, 0%, 100%); 
+  }
+
+.ascii_desktop{
+  overflow: hidden;
+  background-color: black;
+  color: white;
+  font-family: monospace;
+  font-size: large
+
+}
+
+.ascii_art_block{
+ float:left; 
+}
+
+.terminal{
+  overflow: hidden;
+  background-color: black;
+  color: white;
+  font-family: monospace;
+ }
+#input_field{
+  font-size:11px;
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-family: monospace;
+  outline: none;
+  resize: none;
+  width: 100%;
+
+}
+
+#inputField.cursor{
+  
+  font-size:11px;
+  width: 10px;
+  display:inline-block;
+  background-color: red;
+
+}
+
+
+
+.help_row{
+  margin: 0;
+  padding: 0;
+}
+
+.resume_doc{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 90vh; /* Set the height to fill the viewport */  
+}
+
+.align_left{
+  align-self: flex-start;
+  margin: 0;
+  padding: 0;
+}
+
+.align_left_title{
+  font-size:15px;
+  align-self: flex-start;
+  margin: 0;
+  padding: 0;
+}
+
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.gallery_container{
+  display: grid;
+  }
+
+
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
