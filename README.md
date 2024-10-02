@@ -13,3 +13,7 @@
 <strong>Navigate my demo:</strong> <br>
 This website exists simply as a demo. This is not a portfolio for my work, though it may be used as one in the future. I simply created this fun way to navigate on a webpage and wanted to share it. Feel free to take code that you would like to use for your own project!<br>
 The website content is tentative. My academic projects displayed DO exist, however- I am awaiting permission from professors to make them public :P. The personal projects are either just ideas, or they are not quite polished enough to be published- some are published. This website is just a skeleton for whoever may be interested. Have fun! <br>
+
+
+<h2>Goal(s)</h2>
+-[ ] remake this project using HTMX, ensure it is fully functional and can be used more effectively as a template. <br>
