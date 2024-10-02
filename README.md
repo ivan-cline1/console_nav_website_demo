@@ -16,4 +16,4 @@ The website content is tentative. My academic projects displayed DO exist, howev
 
 
 <h2>Goal(s)</h2>
--[ ] remake this project using HTMX, ensure it is fully functional and can be used more effectively as a template. <br>
+- [ ] remake this project using HTMX, ensure it is fully functional and can be used more effectively as a template. <br>
