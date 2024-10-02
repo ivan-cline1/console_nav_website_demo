@@ -15,5 +15,11 @@ This website exists simply as a demo. This is not a portfolio for my work, thoug
 The website content is tentative. My academic projects displayed DO exist, however- I am awaiting permission from professors to make them public :P. The personal projects are either just ideas, or they are not quite polished enough to be published- some are published. This website is just a skeleton for whoever may be interested. Have fun! <br>
 
 
-<h2>Goal(s)</h2>
-- [ ] remake this project using HTMX, ensure it is fully functional and can be used more effectively as a template. <br>
+<h2>Goal(s)</h2><br>
+<ul>
+<li> Remake this project using HTMX, ensure it is fully functional and can be used more effectively as a template. </li>
+<li> Image to ASCII art converter to maintain the ASCII theme on webpage, apply to all project images at runtime </li>
+<li> Simple ASCII game to complete demonstration of all menu items </li>
+<li> Allow the user to find past used commands by pressing the "up" arrow on their keyboard, like in a terminal. </li>
+</ul>
+ 
