@@ -20,6 +20,6 @@ The website content is tentative. My academic projects displayed DO exist, howev
 <li> Remake this project using HTMX, ensure it is fully functional and can be used more effectively as a template. </li>
 <li> Image to ASCII art converter to maintain the ASCII theme on webpage, apply to all project images at runtime </li>
 <li> Simple ASCII game to complete demonstration of all menu items </li>
-<li> Allow the user to find past used commands by pressing the "up" arrow on their keyboard, like in a terminal. </li>
+<li> Allow the user to find past used commands by pressing the "up" arrow on their keyboard, like in a terminal </li>
 </ul>
  
